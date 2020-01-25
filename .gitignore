@@ -1,0 +1,7 @@
+#Fichiers dispo -> npm i
+/node_modules
+package-lock
+
+#test et backup
+/test
+/bckp
